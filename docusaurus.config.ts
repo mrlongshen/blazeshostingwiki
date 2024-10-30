@@ -63,41 +63,68 @@ const config: Config = {
   ],
 
   themeConfig: {
+
+  
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'Blazeshosting Tutorial',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
       },
-      items: [
-        {
+	  
+	items: [
+    /*    {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
-        },
-        {to: '/blog', label: 'Blog', position: 'left'},
+          label: 'General',
+		},
+	*/	
+		{
+          type: 'docSidebar',
+          sidebarId: 'directadminSidebar',
+          position: 'left',
+          label: 'Directadmin',
+		},
+		{
+          type: 'docSidebar',
+          sidebarId: 'seedboxSidebar',
+          position: 'left',
+          label: 'Seedbox',
+		},
+		
+//        {to: '/blog', label: 'Blog', position: 'left'},
+		
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/mrlongshen/blazeshostingwiki',
           label: 'GitHub',
           position: 'right',
         },
+		
       ],
     },
+	
+	
+	
     footer: {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Tutorial',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Directadmin',
+              to: '/docs/directadmin/intro',
+            },
+			 {
+              label: 'Seedbox',
+              to: '/docs/seedbox/intro',
             },
           ],
         },
+/*		
         {
           title: 'Community',
           items: [
@@ -128,14 +155,18 @@ const config: Config = {
             },
           ],
         },
+*/
+		
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Blazeshosting Wiki. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Blazeshosting Tutorial. Built with Docusaurus.`,
     },
+	
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
+	
 };
 
 export default config;
