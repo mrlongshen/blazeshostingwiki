@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblazeshostingwiki=self.webpackChunkblazeshostingwiki||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/blazeshostingwiki/blog","blogTitle":"Blog","authorsListPath":"/blazeshostingwiki/blog/authors"}')}}]);
