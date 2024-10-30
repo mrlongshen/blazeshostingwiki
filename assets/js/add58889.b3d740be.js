@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblazeshostingwiki=self.webpackChunkblazeshostingwiki||[]).push([[2880],{5873:e=>{e.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"Directadmin","slug":"/category/directadmin","permalink":"/docs/category/directadmin","sidebar":"tutorialSidebar","navigation":{"next":{"title":"Pengenalan","permalink":"/docs/directadmin/intro"}}}}')}}]);
