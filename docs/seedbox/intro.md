@@ -2,22 +2,22 @@
 sidebar_position: 1
 ---
 
-# Congratulations!
+# Pengenalan
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
+After you complete your order, we assign you on the free slot. As soon as your account is created, you receive a welcome email with your login information, which includes name of assigned server, your username, and your password. An example would be this:
 
-Docusaurus has **much more to offer**!
+Assigned server: sb1.blazesbox.download
+Username: blazesuser
+Password: blazes123
+The username is the same for both web and FTP (see the tutorials for information on accessing).
 
-Have **5 more minutes**? Take a look at **[versioning](../tutorial-extras/manage-docs-versions.md)** and **[i18n](../tutorial-extras/translate-your-site.md)**.
+You can cancel your subscription at any time, no question asked. Your account will not be suspended until the paid period is up.
 
-Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
+Also, you can upgrade or downgrade your subscription whenever you need. Just cancel your subscription and resubscribe on the new plan.
 
-## What's next?
+If you have any kind of problem, our tech support is available every day including weekends. These are the most important things to know when contacting tech support:
 
-- Read the [official documentation](https://docusaurus.io/)
-- Modify your site configuration with [`docusaurus.config.js`](https://docusaurus.io/docs/api/docusaurus-config)
-- Add navbar and footer items with [`themeConfig`](https://docusaurus.io/docs/api/themes/configuration)
-- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
-- Add a [search bar](https://docusaurus.io/docs/search)
-- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
-- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+Our online staff speaks English and Malay.
+There’s no charge for technical help.
+We won’t look into your directory unless you give us permission.
+We won’t look into your directory unless you give us permission.
