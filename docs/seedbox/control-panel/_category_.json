@@ -1,6 +1,6 @@
 {
-  "label": "Seedbox",
-  "position": 1,
+  "label": "Control Panel",
+  "position": 2,
   "link": {
     "type": "generated-index"
   }
